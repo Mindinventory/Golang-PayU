@@ -1,4 +1,9 @@
-# PayU integration using Golang 
+# Quick PayU Integration using Golang
+
+<a href="https://travis-ci.org/Mindinventory/Golang-Paytm" style="pointer-events: none;" target="_blank"><img src="https://travis-ci.org/Mindinventory/Golang-PayU.svg?branch=master"></a>
+<a href="https://godoc.org/fyne.io/fyne" style="pointer-events: none;" target="_blank"><img src="https://img.shields.io/badge/go-documentation-blue.svg"></a>
+<a href="https://goreportcard.com/report/github.com/Mindinventory/Golang-PayU" style="pointer-events: none;" target="_blank"><img src="https://goreportcard.com/badge/github.com/Mindinventory/Golang-PayU"></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mindinventory/Golang-PayU/blob/master/LICENSE)
 
 <img src="https://raw.githubusercontent.com/Mindinventory/Golang-PayU/master/payU.png">
 
